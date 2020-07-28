@@ -44,80 +44,92 @@
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
+      "titulo": "Linux",
+      "cor": "#054f77",
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "https://www.youtube.com/watch?v=hy7PqrG-bhQ",
+          "url": "macOS no PC - O jeito mais fácil que existe! - Linux KVM"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Como fazer DUAL BOOT com Windows 10 e Linux - Tutorial FÁCIL - 2020",
+          "url": "https://www.youtube.com/watch?v=6D6L9Wml1oY"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Instale Linux & Windows com O MESMO Pen Drive - Ventoy",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
-      ]
-    },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "videos": [
-        {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Aprenda os comandos básicos do Linux - Terminal Ubuntu",
+          "url": "https://www.youtube.com/watch?v=JEhVB4VHsTI"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Você já instalou Linux desse jeito? /HOME compartilhada",
+          "url": "https://www.youtube.com/watch?v=pvDh-AqI5b0"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "O que o novo Ubuntu 20.04 LTS tem a oferecer? - Novidades da versão!",
+          "url": "https://www.youtube.com/watch?v=5Cf5L2X8sQ0"
         }
       ]
     },
     {
       "titulo": "Filmes",
-      "cor": "orange",
+      "cor": "#ffc005",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Mulan",
+          "url": "https://www.youtube.com/watch?v=qp8mOwtzsQw"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Viúva Negra",
+          "url": "https://www.youtube.com/watch?v=qg2IT5L19tE"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "TERREMOTO",
+          "url": "https://www.youtube.com/watch?v=pLdDVU9xkEY"
+        },
+        {
+          "titulo": "TOP GUN 2",
+          "url": "https://www.youtube.com/watch?v=39Ecx5JnDNU"
+        },
+        {
+          "titulo": "1917",
+          "url": "https://www.youtube.com/watch?v=_3gy6K7LXHg"
         },
         {
           "titulo": "Feitiço do Tempo",
           "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Animação",
+      "cor": "#ffcb2e",
+      "videos": [
+        {
+          "titulo": "É O BICHO",
+          "url": "https://www.youtube.com/watch?v=TMQjplHEBXs"
+        },
+        {
+          "titulo": "Dois Irmãos - Uma Jornada Fantástica",
+          "url": "https://www.youtube.com/watch?v=bPiNYBHvB9Y"
+        },
+        {
+          "titulo": "SCOOBY! O FILME",
+          "url": "https://www.youtube.com/watch?v=b15_u5wYB0I"
+        },
+        {
+          "titulo": "Soul",
+          "url": "https://www.youtube.com/watch?v=ccPhZng6hCc"
+        },
+        {
+          "titulo": "MINIONS 2",
+          "url": "https://www.youtube.com/watch?v=VhGAAacDwEE"
+        },
+        {
+          "titulo": "DETONA RALPH 2",
+          "url": "https://www.youtube.com/watch?v=q7vk_FS55KQ"
         }
       ]
     },
@@ -129,6 +141,10 @@
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
+        {
+          "titulo": "Diablo IV",
+          "url": "https://www.youtube.com/watch?v=tflKwXOESyc"
+        },
         {
           "titulo": "Final Fantasy 7",
           "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
@@ -144,10 +160,6 @@
         {
           "titulo": "Resident Evil 8",
           "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
         }
       ]
     },
@@ -178,6 +190,44 @@
         {
           "titulo": "Como aprender a programar?",
           "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    },
+    {
+      "titulo": "Mistérios do Mundo",
+      "cor": "#8b0000",
+      "link_extra": {
+        "text": "As 8 praias mais perigosas do mundo",
+        "url": "https://www.youtube.com/watch?v=3F0tvoqd1j8"
+      },
+      "videos": [
+        {
+          "titulo": "8 lugares impossíveis que existem de verdade",
+          "url": "https://www.youtube.com/watch?v=J79XWMb6pls"
+        },
+        {
+          "titulo": "Essas pedras são um dos maiores mistérios do mundo arqueológico!",
+          "url": "https://www.youtube.com/watch?v=vMh39pDxlGw"
+        },
+        {
+          "titulo": "Os 14 animais mais mortais do mundo",
+          "url": "https://www.youtube.com/watch?v=-E8ixD7rfH4"
+        },
+        {
+          "titulo": "Essa é a ilha mais perigosa do mundo, e ela está no Brasil",
+          "url": "https://www.youtube.com/watch?v=TxIBxh3o64M"
+        },
+        {
+          "titulo": "A verdade sobre o Triângulo das Bermudas",
+          "url": "https://www.youtube.com/watch?v=PnNDFoVENLc"
+        },
+        {
+          "titulo": "Teoria do Caos: Como uma borboleta no Brasil causa um tornado no Texas?",
+          "url": "https://www.youtube.com/watch?v=Dttlf6BsB8c"
+        },
+        {
+          "titulo": "Isso é o que aconteceria se todos os humanos desaparecessem",
+          "url": "https://www.youtube.com/watch?v=H8F8fNCUJ84"
         }
       ]
     }
